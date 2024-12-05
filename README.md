@@ -1,4 +1,4 @@
-Annika-s-exercise
+Exercise
 =================
 
 C++ exercise
